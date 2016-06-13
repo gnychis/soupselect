@@ -1,10 +1,10 @@
 from distutils.core import setup
 
-setup(name='utility',
+setup(name='soupselect',
           version='1.0',
-          url='https://tmthyjames@bitbucket.org/tmthyjames/utilitybelt.git',
+          url='https://github.com/gnychis/soupselect.git',
           packages=[''],
-          maintainer='tim dobbins',
-          maintainer_email='tmthyjames@gmail.com',
-          description='functions i use often'
+          maintainer='George Nychis',
+          maintainer_email='george@soroco.com',
+          description='Soup select package.'
           )
